@@ -87,4 +87,4 @@ Este projeto está licenciado sob a Licença MIT.
 
 ## 👨‍💻 Autor
 
-Desenvolvido por @elias_jrnunes.md
+Desenvolvido por @elias_jrnunes
